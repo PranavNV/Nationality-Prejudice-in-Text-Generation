@@ -1,4 +1,4 @@
-# Populism-in-Text-Generation
+# Nationality-Prejudice-in-Text-Generation
 
 ## Objective
 This project focuses on the analysis of text generation models such as GPT-2 to identify and understand populistic behaviours or biases against various nationality. 
